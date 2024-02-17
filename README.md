@@ -1,6 +1,6 @@
 Hi everyone & welcome👋
-- 💊 I’m currently working as contractor for AbbVie as the Swiss Governance Lead
 - 📝 I wrote my bachelor thesis about time series databases for IoT
+- 📝 Writing my master thesis about green forecasting in commodity trading
 - 🌱 MSc candidate in IT, Digitalization & Sustainability & Applied Computer Science (Specialisation in IoT)
-- 🔥 Data Engineering, Big Data, AI 🔔
+- 🔥 IT projects, network & data engineering, data architect and big data themes 🔔
 - 📫 I'm always interested in talking about new technologies so just drop me a message 👍
